@@ -13,13 +13,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20sql-shield-v230%20%F0%9F%9A%80;%3E%20Built%20using%20JavaScript%20%7C%20Optimized%20%26%20Secure;%3E%20Ensures%20queries%20are%20sanitized%20from%20SQL%20i...)](https://github.com/VarshuAi/sql-shield-v230)
+<a href="https://github.com/VarshuAi/sql-shield-v230"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20sql-shield-v230%20%F0%9F%9A%80;%3E%20Built%20using%20JavaScript%20%7C%20Optimized%20%26%20Secure;%3E%20Ensures%20queries%20are%20sanitized%20from%20SQL%20i..." alt="Typing SVG"/></a>
 
 <br/>
 
-![Version](https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black)
-![Language](https://img.shields.io/badge/JavaScript-Tech-00CC66?style=for-the-badge&logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Version"/>
+<img src="https://img.shields.io/badge/JavaScript-Tech-00CC66?style=for-the-badge&logo=javascript&logoColor=black" alt="Language"/>
+<img src="https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white" alt="Status"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:00150A,50:002D1A,75:00150A,100:000000&height=60&section=header&text=&fontSize=0" width="100%"/>
 
@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Ensures queries are sanitized from SQL injection scripts. [Variant 230 using NODE with Neon_Dark theme]  ---
+  Ensures queries are sanitized from SQL injection scripts. [Variant 230 using NODE with Neon_Dark theme]
 primary_tech: JavaScript
 ```
 
@@ -68,16 +68,11 @@ primary_tech: JavaScript
 <samp>&nbsp;COMMANDS & USAGE</samp>
 </h2>
 
-### Requirements
-Ensure you have the required runtime environment installed (NODE).
-
-### Execution
-Clone the repository and run:
 ```bash
+# Clone the repository structure
 git clone https://github.com/VarshuAi/sql-shield-v230.git
 cd sql-shield-v230
 ```
-Run the master script or compile the executable entry point.
 
 <!-- ============================== TECH STACK ============================== -->
 
@@ -134,12 +129,12 @@ sql-shield-v230/
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite.)](https://github.com/VarshuAi)
+<a href="https://github.com/VarshuAi"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite." alt="Typing SVG"/></a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi)
-[![Repo](https://img.shields.io/badge/sql-shield-v230-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi/sql-shield-v230)
+<a href="https://github.com/VarshuAi"><img src="https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile"/></a>
+<a href="https://github.com/VarshuAi/sql-shield-v230"><img src="https://img.shields.io/badge/sql-shield-v230-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black" alt="Repository"/></a>
 
 <br/>
 
