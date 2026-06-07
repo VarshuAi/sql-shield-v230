@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Ensures queries are sanitized from SQL injection scripts. [Variant 230 using NODE with Neon_Dark theme]
+  name: sql-shield-v230 version: 1.0 type: Repository author: VarshuAi description: >   Ensures queries are sanitized from SQL injection scripts. [Variant 230 using NODE with Neon_Dark theme] primary_tech: JavaScript
 primary_tech: JavaScript
 ```
 
